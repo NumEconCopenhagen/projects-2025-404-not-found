@@ -1,9 +1,10 @@
-# [Group name]
+# [404 not found]
 
 **Group members:**
-- A
-- B
-- C
+- Cornelius Barild 
+- Nicolaj Ulrich
+- Mads Kristensen
+- Oscar Corydon
 
 **This repository contains:***
 
